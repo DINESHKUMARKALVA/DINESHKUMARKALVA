@@ -14,12 +14,12 @@ Currently working with AMD Organization and contributing to the thesofproject/so
 Author credentials: DineshKumar Kalva <DineshKumar.Kalva@amd.com>
 The following PRs represent contributed changes:
 
-https://github.com/thesofproject/sof/pull/6759
-https://github.com/thesofproject/sof/pull/8634
-https://github.com/thesofproject/sof/pull/8808
-https://github.com/zephyrproject-rtos/sdk-ng/pull/806
-https://github.com/thesofproject/sof/pull/9578
-https://github.com/thesofproject/sof/pull/9613
-https://github.com/zephyrproject-rtos/zephyr/pull/79796
+- https://github.com/thesofproject/sof/pull/6759
+- https://github.com/thesofproject/sof/pull/8634
+- https://github.com/thesofproject/sof/pull/8808
+- https://github.com/zephyrproject-rtos/sdk-ng/pull/806
+- https://github.com/thesofproject/sof/pull/9578
+- https://github.com/thesofproject/sof/pull/9613
+- https://github.com/zephyrproject-rtos/zephyr/pull/79796
 
 --->
