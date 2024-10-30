@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DINESHKUMARKALVA
-- 👀 I’m interested in embedded engineering products 
-- 🌱 I’m currently learning architecture analasis 
-- 💞️ I’m looking to collaborate on new technology and the developement projects.
-- 📫 to reach out mail # dineshkumark0417@gmail.com
+-    I’m interested in embedded engineering products 
+-    currently learning architecture analasis 
+-    I am looking to collaborate on new technology and the developement projects.
+-    To reach out mail # dineshkumark0417@gmail.com
   
 skilled Embedded Software Engineer with 4 years of experience in designing and developing real-time systems,
 low-level device drivers, and embedded applications.
