@@ -26,5 +26,17 @@ The following PRs represent contributed changes:
 - https://github.com/thesofproject/sof/pull/9578
 - https://github.com/thesofproject/sof/pull/9613
 - https://github.com/zephyrproject-rtos/zephyr/pull/79796
+Your Name's GitHub stats
 
+Top Langs
+Tech stack 🚀
+
+Languages
+C C++ CMake
+
+Shell Linux Terminal
+
+Workflow
+Vscode
+GitHub
 --->
