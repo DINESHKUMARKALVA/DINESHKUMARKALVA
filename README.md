@@ -3,6 +3,8 @@
 -    This is my verified achievement badges from The Linux Foundation.,
       Zephyr Technical Contributor was issued by The Linux Foundation.,
       credly.com -> https://www.credly.com/badges/75ddabf7-1864-45ed-b9ae-f763a5e14997/linked_in?t=snbdts
+-   https://github.com/users/DINESHKUMARK1/achievements/pull-shark
+-   https://github.com/users/DINESHKUMARK1/achievements/quickdraw
 -    Here is the Organization contribution git https://github.com/DINESHKUMARK1
 -    I’m interested in embedded engineering products 
 -    currently learning architecture analasis 
